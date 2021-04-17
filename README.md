@@ -1,4 +1,4 @@
-This repository contains all research artifact reference from paper [Challenges and Recommendations in DevOps Education: A Systematic Literature Review](https://dl.acm.org/doi/abs/10.1145/3422392.3422496) 
+This repository contains all research artifact references to the paper [Challenges and Recommendations in DevOps Education: A Systematic Literature Review](https://dl.acm.org/doi/abs/10.1145/3422392.3422496) 
 published at the academic conference **SBES '20: Proceedings of the 34th Brazilian Symposium on Software Engineering**. 
 
 
